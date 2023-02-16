@@ -1,0 +1,18 @@
+.mainFooter {
+  background-color: #999;
+  padding: 25px 0;
+  margin-block: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+
+  .social {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    i {
+      font-size: 25px;
+    }
+  }
+}
